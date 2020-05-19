@@ -5,5 +5,5 @@ Collection of Julia implementations of Deep Learning methods varieties presented
 ## Table of Contents
 
 - Implementations
-  - [MLP+MNIST](https://github.com/tczhangzhi/julia-deeplearning/blob/master/example/MLP_and_MNIST.ipynb)
+  - [MLP+MNIST](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/MLP_and_MNIST.ipynb)
 
