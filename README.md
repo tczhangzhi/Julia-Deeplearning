@@ -1,0 +1,9 @@
+## Julia-Deeplearning
+
+Collection of Julia implementations of Deep Learning methods varieties presented in research papers. Model architectures will not always mirror the ones proposed in the papers, but I have chosen to focus on getting the core ideas covered instead of getting every layer configuration right. Contributions and suggestions of deeplearning methods to implement are very welcomed.
+
+## Table of Contents
+
+- Implementations
+  - [MLP+MNIST](https://github.com/tczhangzhi/julia-deeplearning/blob/master/example/MLP_and_MNIST.ipynb)
+
