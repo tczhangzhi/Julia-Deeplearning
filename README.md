@@ -7,4 +7,5 @@ Collection of Julia implementations of Deep Learning methods varieties presented
 - Implementations
   - [MLP+MNIST](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/MLP_and_MNIST.ipynb)
   - [VGG+Cifar10](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/VGG_and_Cifar.ipynb)
+  - [ResNet+ImageNet](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/ResNet_and_ImageNet.ipynb)
 
