@@ -16,3 +16,6 @@
 
 - 生成对抗网络
   - [DCGAN+Fashion](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/DCGAN_and_Fashion.ipynb)
+
+- 图卷积网络
+  - [GCN+Cora](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/GCN_and_Cora.ipynb)

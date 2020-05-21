@@ -17,3 +17,5 @@ Collection of Julia implementations of Deep Learning methods varieties presented
 - Generative Adversarial Networks
   - [DCGAN+Fashion](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/DCGAN_and_Fashion.ipynb)
 
+- Graph Convolutional Networks
+  - [GCN+Cora](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/GCN_and_Cora.ipynb)
