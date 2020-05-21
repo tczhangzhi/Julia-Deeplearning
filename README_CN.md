@@ -14,3 +14,5 @@
   - [VGG+Cifar10](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/VGG_and_Cifar.ipynb)
   - [ResNet+ImageNet](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/ResNet_and_ImageNet.ipynb)
 
+- 生成对抗网络
+  - [DCGAN+Fashion](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/DCGAN_and_Fashion.ipynb)
