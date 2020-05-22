@@ -13,6 +13,7 @@ Collection of Julia implementations of Deep Learning methods varieties presented
   - [MLP+MNIST](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/MLP_and_MNIST.ipynb)
   - [VGG+Cifar10](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/VGG_and_Cifar.ipynb)
   - [ResNet+ImageNet](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/ResNet_and_ImageNet.ipynb)
+  - [UNet+ISBI](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/UNet_and_ISBI.ipynb)
 
 - Generative Adversarial Networks
   - [DCGAN+Fashion](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/DCGAN_and_Fashion.ipynb)

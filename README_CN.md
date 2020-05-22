@@ -13,9 +13,11 @@
   - [MLP+MNIST](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/MLP_and_MNIST.ipynb)
   - [VGG+Cifar10](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/VGG_and_Cifar.ipynb)
   - [ResNet+ImageNet](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/ResNet_and_ImageNet.ipynb)
+  - [UNet+ISBI](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/UNet_and_ISBI.ipynb)
 
 - 生成对抗网络
   - [DCGAN+Fashion](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/DCGAN_and_Fashion.ipynb)
 
 - 图卷积网络
   - [GCN+Cora](https://github.com/tczhangzhi/Julia-Deeplearning/blob/master/GCN_and_Cora.ipynb)
+
